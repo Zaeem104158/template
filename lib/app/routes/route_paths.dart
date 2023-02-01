@@ -1,0 +1,25 @@
+const String routeInitial = "/";
+const String routeLanguage = "/language";
+const String routeIntroduction = "/introduction";
+
+const String routeDoc = "/doc";
+const String routeHome = "/home";
+const String routeLogin = "/login";
+const String routePolicy = "/policy";
+const String routeProfile = "/profile";
+const String routeAddress = "/address";
+const String routeDetails = "/details";
+const String routeWebView = "/webView";
+const String routeSettings = "/settings";
+const String routeUploadDoc = "/uploadDoc";
+const String routeNavigation = "/navigation";
+const String routeAllProduct = "/allProduct";
+const String routeCreateClaim = "/createClaim";
+const String routeOpportunity = "/opportunity";
+const String routeCertificate = "/certificate";
+const String routeNotification = "/notification";
+const String routeForgotPassword = "/forgotPassword";
+const String routeUpdatePassword = "/updatePassword";
+const String routeCreateUpdateAddress = "/createUpdateAddress";
+const String routeCreateSupportTicket = "/createSupportTicket";
+const String routeSupportTicketMessage = "/supportTicketMessage";

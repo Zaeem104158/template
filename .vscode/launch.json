@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "configurations": [
+        
+        {
+            "name": "Main",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+        }
+    ]
+}
